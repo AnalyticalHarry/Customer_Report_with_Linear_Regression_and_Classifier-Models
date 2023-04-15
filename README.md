@@ -1,1 +1,3 @@
-# Customer_Report_with_Linear_Regression_and_Classifier-Models
+# Linear Regression and Classification
+
+Hey guys 👋, an open research on customer report is a valuable tool for businesses to gain insights into their customers and make data-driven decisions. 📊 It is a very basic customer report that provides detailed information about a business's customers, including their demographics, behaviors, and preferences. This small types of information can be used to identify trends, target specific segments of the market, and optimise marketing campaigns. 📈 This report can also help businesses understand their customers' needs and develop new products and services that better meet those needs. 😁
